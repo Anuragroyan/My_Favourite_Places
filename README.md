@@ -54,7 +54,8 @@ npx expo start --web
 
 This project demonstrates how React Native can interact with native mobile device features such as the camera and location services. It provides practical experience with location-based functionality, Google Maps integration, device permissions, CRUD operations, geographical coordinates, and building mobile applications that interact with real-world device capabilities.
 
-Screenshot
+ScreenShot
+
 ![Screenshot_20240827-013949](https://github.com/user-attachments/assets/a0db016c-6f34-4aab-82f8-fb9d47d2c3fe)
 ![Screenshot_20240826-000034](https://github.com/user-attachments/assets/d730cc9d-3653-49f3-ad20-120f1c13f5a7)
 ![Screenshot_20240826-000029](https://github.com/user-attachments/assets/093c76a7-e37e-4826-bc0d-2fbadbae1ce0)
